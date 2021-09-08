@@ -45,3 +45,5 @@ Part 2, Q1 - http://localhost:5000/api/v1/get-order-details-per-full-visitor-id?
 
 
 ```
+
+The Visualization is in the root at a file called : `location_changed_vs_location_not_changed.png`
