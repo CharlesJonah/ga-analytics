@@ -1,2 +1,4 @@
 SECRET_KEY='weaksecretkey'
 ENVIRONMENT='development'
+PROJECT_ID="dwh-analytics-project-id"
+GOOGLE_APPLICATION_CREDENTIALS="/Path/to/key"
