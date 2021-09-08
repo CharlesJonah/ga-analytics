@@ -35,4 +35,4 @@ if __name__ == "__main__":
         "/api/v1/get-order-details-per-full-visitor-id",
     )
 
-    application.run(host="0.0.0.0", debug=True)
+    application.run(host="0.0.0.0", debug=config.DEBUG)
