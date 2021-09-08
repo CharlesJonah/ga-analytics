@@ -6,6 +6,12 @@ This is a REST API. It's built using Flask and Flask Restful Frameworks
 
 Ensure that you create an env file and add all env-sample variables with the Correct substitutions.
 
+Install the required dependencies by running this command
+
+```
+pip3 install -r requirements.txt
+```
+
 Then run this command:
 
 ```
